@@ -39,6 +39,7 @@
 </a>
 
 **MoPub mediation adapter for Unity**
+</br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
   <img src="https://cdn.kidoz.net/media/MobPub3.png" width="110px"/>
 </a>
