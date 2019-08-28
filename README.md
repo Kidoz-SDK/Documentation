@@ -20,7 +20,7 @@
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Air_SDK_Example">
   <img src="https://raw.githubusercontent.com/wiki/KIDOZ-SDK/Documentation/images/adobe_air.jpg" width="110px"/>
 </a>
-<a href="https://docs.coronalabs.com/plugin/kidoz/index.html">
+<a href="https://github.com/Kidoz-SDK/Corona">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Corona.png" width="150px" align="top"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/Documentation/wiki/Unity">
