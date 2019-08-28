@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/wiki/KIDOZ-SDK/Documentation/images/adobe_air.jpg" width="110px"/>
 </a>
 <a href="https://docs.coronalabs.com/plugin/kidoz/index.html">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Corona.png" width="150px" height="50px" align="top"/>
+  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Corona.png" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/Documentation/wiki/Unity">
   <img src="https://raw.githubusercontent.com/wiki/KIDOZ-SDK/Documentation/images/unity.png" width="110px"/>
@@ -30,7 +30,7 @@
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Enhance.png" width="110px"/>
 </a>
 
-### Mediation Platforms
+### Mediation Platforms:
 <a href="https://github.com/Kidoz-SDK/MoPub-Adapter">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopub.png" width="110px"/>
 </a>
