@@ -42,8 +42,9 @@
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_ADAPTER">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
 </a>
-
 <br>
+
+
 **MoPub mediation adapter for Unity**
 <br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
