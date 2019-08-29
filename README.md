@@ -43,21 +43,20 @@
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
 </a>
 
-
-**MoPub mediation adapter for Unity**
 <br>
+**MoPub mediation adapter for Unity**
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopubunity.png" width="110px"/>
 </a>
 
-**AdMob mediation adapter for Unity**
 <br>
+**AdMob mediation adapter for Unity**
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_UNITY_ADAPTER">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/admobunity.png" width="110px"/>
 </a>
 
-**Admob iOS mediation adapter**
 <br>
+**Admob iOS mediation adapter**
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_iOS_ADAPTER">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/admobios.png" width="110px"/>
 </a>
