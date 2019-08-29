@@ -16,11 +16,10 @@
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/iOS.png" width="110px"/>
 </a>
 
-### KIDOZ Web SDK Platform
+### Web SDK
 <a href="https://github.com/Kidoz-SDK/Documentation/wiki/KIDOZ-Web">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Webkidoz.png" width="110px"/>
 </a>
-
 
 ### Cross Platforms IDEs (Android & IOS)
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Air_SDK_Example">
