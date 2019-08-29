@@ -8,13 +8,19 @@
 
 
 ## Supported Platforms
-### Native Platforms
+### Native SDK Platforms
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Android_SDK_Example-Android-Studio">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Android.png" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_iOS_SDK_New_Example">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/iOS.png" width="110px"/>
 </a>
+
+### KIDOZ Web SDK Platform
+<a href="https://github.com/Kidoz-SDK/Documentation/wiki/KIDOZ-Web">
+  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Webkidoz.png" width="110px"/>
+</a>
+
 
 ### Cross Platforms IDEs (Android & IOS)
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Air_SDK_Example">
@@ -32,7 +38,7 @@
 
 ### Mediation Platforms:
 <a href="https://github.com/Kidoz-SDK/MoPub-Adapter">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopub.png" width="110px"/>
+  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopub_new.png" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_ADAPTER">
   <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
@@ -42,7 +48,7 @@
 **MoPub mediation adapter for Unity**
 </br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/MobPub3.png" width="110px"/>
+  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopubunity.png" width="110px"/>
 </a>
 
 **AdMob mediation adapter for Unity**
