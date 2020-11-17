@@ -1,4 +1,4 @@
-[<img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/kidoz_small.gif" width="533px" height="300px">](https://www.youtube.com/watch?v=-ljFjRn7jeM)
+[<img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/kidoz_small.gif" width="533px" height="300px">](https://www.youtube.com/watch?v=-ljFjRn7jeM)
 
 # SDK Documentation
 
@@ -10,15 +10,15 @@
 ## Supported Platforms
 ### Native SDK Platforms
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Android_SDK_Example-Android-Studio">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Android.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Android.png" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_iOS_SDK_New_Example">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/iOS.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/iOS.png" width="110px"/>
 </a>
 
 ### Web SDK Platform
 <a href="https://github.com/Kidoz-SDK/Documentation/wiki/KIDOZ-Web">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Webkidoz.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Webkidoz.png" width="110px"/>
 </a>
 
 ### Cross Platforms IDEs (Android & IOS)
@@ -26,21 +26,21 @@
   <img src="https://raw.githubusercontent.com/wiki/KIDOZ-SDK/Documentation/images/adobe_air.jpg" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/Corona">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Corona.png" width="150px" align="top"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Corona.png" width="150px" align="top"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_Unity_SDK_Example">
   <img src="https://raw.githubusercontent.com/wiki/KIDOZ-SDK/Documentation/images/unity.png" width="110px"/>
 </a>
 <a href="https://enhance.co/documentation">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Enhance.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Enhance.png" width="110px"/>
 </a>
 
 ### Mediation Platforms:
 <a href="https://github.com/Kidoz-SDK/MoPub-Adapter">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopub_new.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopub_new.png" width="110px"/>
 </a>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_ADAPTER">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
 </a>
 <br>
 
@@ -48,7 +48,7 @@
 **MoPub mediation adapter for Unity**
 <br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopubunity.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopubunity.png" width="110px"/>
 </a>
 
 **AdMob mediation adapter for Unity**
@@ -60,5 +60,5 @@
 **Admob iOS mediation adapter**
 <br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_iOS_ADAPTER">
-  <img src="https://cdn3.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/admobios.png" width="110px"/>
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/admobios.png" width="110px"/>
 </a>
