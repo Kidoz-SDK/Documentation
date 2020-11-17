@@ -42,6 +42,9 @@
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_ADAPTER">
   <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
 </a>
+<a href="https://github.com/Kidoz-SDK/KIDOZ_TOPON_ADAPTER">
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/topon-logo1.png" width="110px"/>
+</a>
 <br>
 
 
