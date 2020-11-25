@@ -42,17 +42,24 @@
 <a href="https://github.com/Kidoz-SDK/KIDOZ_ADMOB_ADAPTER">
   <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/Google_Admob.png" width="110px"/>
 </a>
-<a href="https://github.com/Kidoz-SDK/KIDOZ_TOPON_ADAPTER">
-  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/topon-logo1.png" width="110px"/>
-</a>
 <br>
-
 
 **MoPub mediation adapter for Unity**
 <br>
 <a href="https://github.com/Kidoz-SDK/KIDOZ_MOPUB_UNITY_ADAPTER">
   <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/mopubunity.png" width="110px"/>
 </a>
+<br>
+
+**TopOn mediation adapters**
+<br>
+<a href="https://github.com/Kidoz-SDK/KIDOZ_TOPON_ADAPTER">
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/topon_Android.png" width="100px"/>
+</a>
+<a href="https://github.com/Kidoz-SDK/KIDOZ_TOPON_iOS_ADAPTER">
+  <img src="https://cdn.kidoz.net/new/sdk/GITHUB_GRAPHICS/KIDOZ_SDK_Documentaions/topon_iOS.png" width="100px"/>
+</a>
+<br>
 
 **AdMob mediation adapter for Unity**
 <br>
